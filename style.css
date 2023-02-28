@@ -1,0 +1,106 @@
+body{background-color: white;}
+.t{
+  width: 231px;
+  height: 19px;
+  left: 604px;
+  top: 54px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+}
+ .paragraph{
+  height: 158px;
+  margin-left: 38px;
+  top: 91px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+ }
+   .t1{
+    width: 494px;
+    height: 19px;
+    margin-left: 38px;
+    top: 274px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+   }
+   .paragraph1{
+    height: 202px;
+    margin-left: 39px;
+    top: 305px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+   }
+    .t2{
+      width: 494px;
+      height: 19px;
+      margin-left: 37px;
+      top: 551px;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 24px;
+    }
+     .paragraph2{
+      height: 167px;
+      margin-left: 38px;
+      top: 582px;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+     }
+      .t3{
+       width: 494px;
+       height: 19px;
+       margin-left: 37px;
+       top: 781px;
+       font-family: 'Inter';
+       font-style: normal;
+       font-weight: 700;
+       font-size: 20px;
+       line-height: 24px;
+       }
+        .paragraph3{
+          height: 212px;
+          margin-left: 38px;
+          top: 812px;
+          font-family: 'Inter';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 16px;
+         line-height: 19px;
+         }
+          .t4{
+            width: 494px;
+            height: 19px;
+            margin-left: 37px;
+            top: 1051px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+           }
+            .paragraph4{
+              height: 212px;
+              margin-left: 38px;
+              top: 1082px;
+              font-family: 'Inter';
+              font-style: normal;
+              font-weight: 400;
+              font-size: 16px;
+              line-height: 19px;
+              }
